@@ -1,1 +1,27 @@
-/* css styles */
+/* Dark Blue Header (Navigation Bar) */
+.navbar {
+    background-color: #001F3F !important; /* Dark Navy Blue */
+    color: white !important;
+    padding: 10px 20px;
+}
+
+/* Change Navigation Link Colors */
+.navbar a {
+    color: white !important;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    text-decoration: none;
+}
+
+/* Highlight Active Link */
+.navbar a:hover {
+    background-color: #003366; /* Slightly lighter blue */
+    border-radius: 5px;
+}
+
+/* Adjust Site Title */
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
