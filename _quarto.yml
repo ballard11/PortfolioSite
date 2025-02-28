@@ -4,8 +4,14 @@ project:
 website:
   title: "Ben Ballard"
   navbar:
+    left:
+      - text: "Portfolio"
+        href: portfolio.qmd  # Link to your portfolio page
+      - text: "Blog"
+        href: blog.qmd  # Link to your main blog page
     right:
-      - about.qmd
+      - text: "About Me"
+        href: about.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/ben-ballard-44969313/
       - icon: github

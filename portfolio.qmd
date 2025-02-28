@@ -1,0 +1,14 @@
+---
+title: "Portfolio"
+description: "A showcase of my best projects and case studies."
+---
+
+## 🚀 Featured Projects
+
+### 🔍 Project 1: Data Analysis on X  
+**Summary:** A deep dive into X using Python and Pandas.  
+[🔗 Read More](posts/project-1/index.qmd)
+
+### 🤖 Project 2: Machine Learning for Y  
+**Summary:** Applying neural networks to predict outcomes.  
+[🔗 Read More](posts/project-2/index.qmd)

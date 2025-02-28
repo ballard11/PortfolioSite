@@ -1,0 +1,10 @@
+---
+title: "My Blog"
+description: "A collection of somewhat formed thoughts and musings."
+page-layout: article
+listing:
+  contents: posts
+  sort: "date desc"  # Sort posts by newest first
+  type: default  # Makes it look like a list of blog posts
+  categories: true  # Enables filtering by tags (optional)
+---

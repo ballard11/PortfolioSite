@@ -17,9 +17,10 @@ about:
       href: https://medium.com/@ben.g.ballard
     - icon: envelope
       text: Contact me
-      href: mailto:menghani.ben.g.ballard@gmail.com
+      href: mailto:ben.g.ballard@gmail.com
 ---
 
-About this blog.
+Hi, I'm Ben.  I'm a senior data scientist at Huntington Ingles Industries.  I'm an engineer and data scientist by training.  I love improving things and finding unique insights with data.  Previously, I've led data science work at Booz Allen Hamilton and Schafer Corp.
 
-Hi, I'm Ben.  I'm a senior data scientist at Huntington Ingles Industries.  I'm an engineer and data scientist by training.  I love improving things and finding unique insights with data.
+🏈 BoomerSooner (BS Industrial Engineering)
+🎓 WahooWa (MS Data Science)
