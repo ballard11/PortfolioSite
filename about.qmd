@@ -1,0 +1,22 @@
+---
+title: "About Me"
+image: images\linkedinpic.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ben-ballard-44969313/
+    - icon: github
+      text: Github
+      href: https://github.com/ballard11
+    - icon: medium
+      href: https://medium.com/@ben.g.ballard
+
+---
+
+What do you want to know about me?
+
+- 🏢 Senior Data Scientist at Huntington Ingles Industries
+- 📊 Passionate about data analysis and insights
+- 📖 Blogging about Data Science, NBA Analytics, Finance and more!

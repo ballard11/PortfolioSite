@@ -1,0 +1,7 @@
+# Ignore Quarto output
+_site/
+*.nb.html
+*.log
+
+# Ignore VS Code settings
+.vscode/

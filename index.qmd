@@ -1,0 +1,25 @@
+---
+title: "Ben Ballard"
+image: images/linkedinpic.jpg
+about:
+  template: jolla
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/ben-ballard-44969313/
+    - icon: github
+      text: Github
+      href: https://github.com/
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@ben.g.ballard
+    - icon: envelope
+      text: Contact me
+      href: mailto:menghani.ben.g.ballard@gmail.com
+---
+
+About this blog.
+
+Hi, I'm Ben.  I'm a senior data scientist at Huntington Ingles Industries.  I'm an engineer and data scientist by training.  I love improving things and finding unique insights with data.
